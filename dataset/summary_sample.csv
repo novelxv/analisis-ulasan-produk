@@ -1,0 +1,213 @@
+product_id,product_name,aspect_summary
+1505048,NOKIA Charger AC-50E Original,"{
+  'Kualitas Barang': {
+    'summary': 'Mayoritas ulasan menilai Kualitas Barang positif, menyoroti barang berkualitas; namun sebagian kecil mengeluhkan barang susah diterima.',
+    'evidence': [
+      {
+        'review_id': 7386,
+        'sent_id': 0,
+        'full_text': 'barang susah diterima packing rapi dengan barang berkualitas terima kasih'
+      },
+      {
+        'review_id': 7388,
+        'sent_id': 0,
+        'full_text': 'barang susah sampai dengan diterima dengan baik rekomen karena barang original dengan biasa dipakai untuk perangkat perangkat lain juga'
+      }
+    ]
+  },
+  'Kemasan Barang': {
+    'summary': 'Mayoritas ulasan menilai Kemasan Barang positif, menyoroti packing rapi.',
+    'evidence': [
+      {
+        'review_id': 7386,
+        'sent_id': 0,
+        'full_text': 'barang susah diterima packing rapi dengan barang berkualitas terima kasih'
+      }
+    ]
+  },
+  'Pengiriman': {
+    'summary': 'Mayoritas ulasan menilai Pengiriman negatif, terutama keluhan sampai.',
+    'evidence': [
+      {
+        'review_id': 7388,
+        'sent_id': 0,
+        'full_text': 'barang susah sampai dengan diterima dengan baik rekomen karena barang original dengan biasa dipakai untuk perangkat perangkat lain juga'
+      }
+    ]
+  }
+}"
+1592922,SAMSUNG Battery Charger Stand Note Original EBH-1E1SBEGSTD,"{
+  'Kualitas Barang': {
+    'summary': 'Mayoritas ulasan menilai Kualitas Barang positif, menyoroti sudah diterima.',
+    'evidence': [
+      {
+        'review_id': 7403,
+        'sent_id': 0,
+        'full_text': 'terima kasih kasih atas pelayanan barang sudah diterima dengan baik asli dengan original dari karena pokoknya tidak rugi belanja ol via tokopedia'
+      },
+      {
+        'review_id': 7404,
+        'sent_id': 0,
+        'full_text': 'whatsapp keliatan sudah banyak kemasan ya original tambah banyak produk yang sudah terjual itu dikarenakan service yang memuaskan terima kasih original atas kiriman semoga tambah jaya dengan sukses'
+      }
+    ]
+  }
+}"
+1601781,SONY ERICSSON Charger EP800 Original,"{}"
+1602217,NOKIA Charger AC-10E Original,"{
+  'Pengiriman': {
+    'summary': 'Mayoritas ulasan menilai Pengiriman positif, menyoroti prosesnya cepat.',
+    'evidence': [
+      {
+        'review_id': 7408,
+        'sent_id': 0,
+        'full_text': 'pertama beli yang di kirim salah malah cas s view terus nyoba claim kesalahan dengan prosesnya cepat rekomendasi buat yang mau beli setuju hp cuma saran mohon jangan sampai iklan kesalahan karena maaf waktu banyak pas pengiriman'
+      }
+    ]
+  }
+}"
+1728931,LG Battery LGIP-430N Original,"{
+  'Kualitas Barang': {
+    'summary': 'Mayoritas ulasan menilai Kualitas Barang negatif, terutama keluhan barang susah diterima.',
+    'evidence': [
+      {
+        'review_id': 7355,
+        'sent_id': 0,
+        'full_text': 'barang susah diterima packing oke terima kasih'
+      }
+    ]
+  },
+  'Kemasan Barang': {
+    'summary': 'Mayoritas ulasan menilai Kemasan Barang negatif, terutama keluhan packing.',
+    'evidence': [
+      {
+        'review_id': 7355,
+        'sent_id': 0,
+        'full_text': 'barang susah diterima packing oke terima kasih'
+      }
+    ]
+  }
+}"
+1790839,"BLACKBERRY Battery LS1 Original, for Z10","{
+  'Pengiriman': {
+    'summary': 'Mayoritas ulasan menilai Pengiriman negatif, terutama keluhan susah sampai.',
+    'evidence': [
+      {
+        'review_id': 7356,
+        'sent_id': 0,
+        'full_text': 'susah sampai pesanan terima kasih gan'
+      }
+    ]
+  }
+}"
+1822915,SAMSUNG Charger ATADM10EBE - D900 Original,"{
+  'Kualitas Barang': {
+    'summary': 'Mayoritas ulasan menilai Kualitas Barang positif, menyoroti barang.',
+    'evidence': [
+      {
+        'review_id': 7402,
+        'sent_id': 0,
+        'full_text': 'barang sampai tidak sesuai pesanan'
+      }
+    ]
+  },
+  'Sesuai Deskripsi': {
+    'summary': 'Mayoritas ulasan menilai Sesuai Deskripsi negatif, terutama keluhan sampai tidak sesuai pesanan.',
+    'evidence': [
+      {
+        'review_id': 7402,
+        'sent_id': 0,
+        'full_text': 'barang sampai tidak sesuai pesanan'
+      }
+    ]
+  }
+}"
+1828413,SONY ERICSSON Charger EP800 Original,"{
+  'Kualitas Barang': {
+    'summary': 'Mayoritas ulasan menilai Kualitas Barang positif, menyoroti original; namun sebagian kecil mengeluhkan barang susah.',
+    'evidence': [
+      {
+        'review_id': 7423,
+        'sent_id': 0,
+        'full_text': 'barang susah sampai gan sama dengan original nya'
+      },
+      {
+        'review_id': 7426,
+        'sent_id': 0,
+        'full_text': 'barang diterima mantap terima kasih kasih ya'
+      },
+      {
+        'review_id': 7425,
+        'sent_id': 0,
+        'full_text': 'ngebut amat gan barang mantap sama seperti standar jangan ragu deh'
+      }
+    ]
+  },
+  'Pelayanan Penjual': {
+    'summary': 'Mayoritas ulasan menilai Pelayanan Penjual positif, menyoroti pengiriman.',
+    'evidence': [
+      {
+        'review_id': 7424,
+        'sent_id': 0,
+        'full_text': 'pengiriman cepat sekali kain iklan box stok nya tapi oke lah'
+      }
+    ]
+  },
+  'Sesuai Deskripsi': {
+    'summary': 'Mayoritas ulasan menilai Sesuai Deskripsi positif, menyoroti standar.',
+    'evidence': [
+      {
+        'review_id': 7425,
+        'sent_id': 0,
+        'full_text': 'ngebut amat gan barang mantap sama seperti standar jangan ragu deh'
+      }
+    ]
+  },
+  'Pengiriman': {
+    'summary': 'Mayoritas ulasan menilai Pengiriman negatif, terutama keluhan sampai.',
+    'evidence': [
+      {
+        'review_id': 7423,
+        'sent_id': 0,
+        'full_text': 'barang susah sampai gan sama dengan original nya'
+      },
+      {
+        'review_id': 7424,
+        'sent_id': 0,
+        'full_text': 'pengiriman cepat sekali kain iklan box stok nya tapi oke lah'
+      }
+    ]
+  }
+}"
+2269322,Charger | Blackberry HDWQ10 Original,"{
+  'Kualitas Barang': {
+    'summary': 'Mayoritas ulasan menilai Kualitas Barang positif, menyoroti bagus bagus.',
+    'evidence': [
+      {
+        'review_id': 7405,
+        'sent_id': 0,
+        'full_text': 'bagus bagus seller pengiriman cepat'
+      }
+    ]
+  },
+  'Pelayanan Penjual': {
+    'summary': 'Mayoritas ulasan menilai Pelayanan Penjual positif, menyoroti seller pengiriman cepat.',
+    'evidence': [
+      {
+        'review_id': 7405,
+        'sent_id': 0,
+        'full_text': 'bagus bagus seller pengiriman cepat'
+      }
+    ]
+  },
+  'Pengiriman': {
+    'summary': 'Mayoritas ulasan menilai Pengiriman negatif, terutama keluhan barang susah sampai ya.',
+    'evidence': [
+      {
+        'review_id': 7407,
+        'sent_id': 0,
+        'full_text': 'barang susah sampai ya terima kasih'
+      }
+    ]
+  }
+}"
